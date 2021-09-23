@@ -1,0 +1,15 @@
+.block-yellow {
+    width: 200px;
+    background-color: yellow;
+}
+
+.block-blue {
+    height: 100px;
+    width: 1280px;
+    background-color: blue;
+}
+
+.block-white {
+    height: 600px;
+    background-color: white;
+}
